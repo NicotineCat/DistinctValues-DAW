@@ -1,0 +1,5 @@
+
+
+AllEqual: https://github.com/NicotineCat/AllEqual
+
+DistinctValues: https://github.com/NicotineCat/DistinctValues-DAW
